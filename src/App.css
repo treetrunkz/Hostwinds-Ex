@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 1000vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +35,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  background-image: url('https://www.wallpaperbetter.com/wallpaper/179/29/184/colorful-cute-background-designs-1080P-wallpaper-middle-size.jpg');
 }
